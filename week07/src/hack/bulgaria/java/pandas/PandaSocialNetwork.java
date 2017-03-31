@@ -1,4 +1,4 @@
-package hack.bulgaria.java.pandas;
+package week07.src.hack.bulgaria.java.pandas;
 
 import java.util.ArrayList;
 import java.util.List;
